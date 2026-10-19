@@ -1,0 +1,32 @@
+{
+  "collectionName": "oftest furniture",
+  "tags": ["furniture", "interior"],
+  "collection": [
+    {
+      "name": "Glass display cabinet",
+      "tags": ["furniture", "kitchen"],
+      "imagePath": "glass_display_cabinet.png",
+      "direction": "Down",
+      "color": "grey",
+      "collisionGrid": [
+        [1, 1, 1, 1],
+        [1, 1, 1, 1],
+        [1, 1, 1, 1],
+        [1, 1, 1, 1]
+      ]
+    },
+    {
+      "name": "Cream wardrobe",
+      "tags": ["furniture", "bedroom"],
+      "imagePath": "cream_wardrobe.png",
+      "direction": "Down",
+      "color": "beige",
+      "collisionGrid": [
+        [1, 1],
+        [1, 1],
+        [1, 1],
+        [1, 1]
+      ]
+    }
+  ]
+}
